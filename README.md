@@ -1,16 +1,26 @@
-### Oi, eu sou a Anik 🌻
+# [Anik Bonarde](https://www.linkedin.com/in/anikbonarde/) 
 
-<!--
-**AnikBonarde/AnikBonarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚩 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Oi, eu sou a Anik :D <br>
+Moro em São Paulo, curso análise e desenvolvimento de sistemas pela Faculdade Impacta Tecnologia, e estudo desennvolvimento front-end pelo qual sou **apaixonada** 👩‍💻 💗
+
+---
+
+## 🚀 Tecnologias
+
+- HTML
+- CSS
+- Javascript
+- React
+
+---
+
+## 💌 Contato
+
+- [anikbonarde.com](https://anikbonarde.com/)
+
+
+
+
