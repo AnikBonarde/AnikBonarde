@@ -4,7 +4,7 @@
 ## 🚩 Sobre mim
 
 Oi, eu sou a Anik :D <br>
-Moro em São Paulo, curso análise e desenvolvimento de sistemas pela Faculdade Impacta Tecnologia, e estudo desennvolvimento front-end pelo qual sou **apaixonada** 👩‍💻 💗
+Moro em São Paulo, curso Análise e Desenvolvimento de Sistemas pela Faculdade Impacta Tecnologia, e estudo desenvolvimento front-end pelo qual sou **apaixonada** 👩‍💻 💗
 
 ---
 
