@@ -19,7 +19,7 @@ Moro em São Paulo, curso Análise e Desenvolvimento de Sistemas pela Faculdade 
 
 ## 💌 Contato
 
-- [anikbonarde.com](https://anikbonarde.com/)
+- [anik1consolaro@gmail.com]
 
 
 
